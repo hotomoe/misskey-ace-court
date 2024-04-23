@@ -1,0 +1,9 @@
+objection_engine
+git+https://github.com/yupix/MiPAC.git@0.6.3
+git+https://github.com/yupix/MiPA.git@0.4.1
+better-profanity
+hatesonar
+polyglot
+PyICU
+pycld2
+morfessor
