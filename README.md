@@ -3,7 +3,7 @@ Misskey에서 역전재판을 렌더링하기
 
 Try now : [@court@hoto.moe](https://hoto.moe/@court)
 
-**@objection@hoto.moe**와는 관련 없는 프로젝트입니다!
+**[@objections@hoto.moe](https://hoto.moe/@objections)**와는 관련 없는 프로젝트입니다! (사실 넓게 보면 관련 있어요)
 
 ## 구동 확인된 환경
 * AMD64 환경에서 동작하는 Ubuntu (Python 3.12)
